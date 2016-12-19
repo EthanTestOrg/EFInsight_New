@@ -1,0 +1,15 @@
+c:\users\sesa394366\documents\visual studio 2013\Projects\EFInsight\EFInsight.Models\bin\Debug\EFInsight.Models.dll.config
+c:\users\sesa394366\documents\visual studio 2013\Projects\EFInsight\EFInsight.Models\bin\Debug\EFInsight.Models.dll
+c:\users\sesa394366\documents\visual studio 2013\Projects\EFInsight\EFInsight.Models\bin\Debug\EFInsight.Models.pdb
+c:\users\sesa394366\documents\visual studio 2013\Projects\EFInsight\EFInsight.Models\bin\Debug\EntityFramework.dll
+c:\users\sesa394366\documents\visual studio 2013\Projects\EFInsight\EFInsight.Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sesa394366\documents\visual studio 2013\Projects\EFInsight\EFInsight.Models\bin\Debug\EntityFramework.xml
+c:\users\sesa394366\documents\visual studio 2013\Projects\EFInsight\EFInsight.Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\sesa394366\documents\visual studio 2013\Projects\EFInsight\EFInsight.Models\obj\Debug\EFInsight.Models.csprojResolveAssemblyReference.cache
+c:\users\sesa394366\documents\visual studio 2013\Projects\EFInsight\EFInsight.Models\obj\Debug\EFInsight.Models.dll
+c:\users\sesa394366\documents\visual studio 2013\Projects\EFInsight\EFInsight.Models\obj\Debug\EFInsight.Models.pdb
+c:\users\sesa394366\documents\visual studio 2013\Projects\EFInsight\EFInsight.Models\obj\Debug\EFInsight.Models.Migrations.InitialCreate.resources
+c:\users\sesa394366\documents\visual studio 2013\Projects\EFInsight\EFInsight.Models\obj\Debug\EFInsight.Models.csproj.GenerateResource.Cache
+c:\users\sesa394366\documents\visual studio 2013\Projects\EFInsight\EFInsight.Models\obj\Debug\EFInsight.Models.Migrations.AddUrl.resources
+c:\users\sesa394366\documents\visual studio 2013\Projects\EFInsight\EFInsight.Models\obj\Debug\EFInsight.Models.Migrations.AddUserTable.resources
+c:\users\sesa394366\documents\visual studio 2013\Projects\EFInsight\EFInsight.Models\bin\Debug\TEMPLATE\install.ini
